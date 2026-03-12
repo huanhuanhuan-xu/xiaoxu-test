@@ -362,6 +362,7 @@ public class WindowTest {
        return length==Integer.MAX_VALUE?0:length;
     }
 
+
     public static void main(String[] args) {
       /*  boolean s = test1("abc", "cbdabbbdsss");
         System.out.println(s);*/
